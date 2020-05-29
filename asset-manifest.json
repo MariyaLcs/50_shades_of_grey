@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/50_shades_of_grey/static/css/main.fc5e0f8f.chunk.css",
+    "main.js": "/50_shades_of_grey/static/js/main.b3956642.chunk.js",
+    "main.js.map": "/50_shades_of_grey/static/js/main.b3956642.chunk.js.map",
+    "runtime-main.js": "/50_shades_of_grey/static/js/runtime-main.2f38ae7b.js",
+    "runtime-main.js.map": "/50_shades_of_grey/static/js/runtime-main.2f38ae7b.js.map",
+    "static/js/2.9d02a520.chunk.js": "/50_shades_of_grey/static/js/2.9d02a520.chunk.js",
+    "static/js/2.9d02a520.chunk.js.map": "/50_shades_of_grey/static/js/2.9d02a520.chunk.js.map",
+    "index.html": "/50_shades_of_grey/index.html",
+    "precache-manifest.8640d13fc99de88e6024ecfa29763f08.js": "/50_shades_of_grey/precache-manifest.8640d13fc99de88e6024ecfa29763f08.js",
+    "service-worker.js": "/50_shades_of_grey/service-worker.js",
+    "static/css/main.fc5e0f8f.chunk.css.map": "/50_shades_of_grey/static/css/main.fc5e0f8f.chunk.css.map",
+    "static/js/2.9d02a520.chunk.js.LICENSE.txt": "/50_shades_of_grey/static/js/2.9d02a520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f38ae7b.js",
+    "static/js/2.9d02a520.chunk.js",
+    "static/css/main.fc5e0f8f.chunk.css",
+    "static/js/main.b3956642.chunk.js"
+  ]
+}
